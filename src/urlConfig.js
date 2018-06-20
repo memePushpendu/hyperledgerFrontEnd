@@ -1,0 +1,1 @@
+export const APIURL = "http://mitapi.memeinfotech.com:5000/";

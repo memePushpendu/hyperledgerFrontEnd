@@ -1,0 +1,22 @@
+.title{
+    font-size: x-large;
+    font-family: serif;
+    font-style: normal;
+    font-weight: 900;
+    padding-left: 39px;
+    color: blue;
+    margin-bottom: 50px
+}
+
+.background {
+    background-color: aliceblue;
+    width: 30%;
+    margin: 0 auto;
+    padding: 3em;
+}
+ .ant-btn:active, .ant-btn:focus {
+    /* outline: 0; */
+    /* border: black; */
+    width: 49%;
+    color: red;
+}
